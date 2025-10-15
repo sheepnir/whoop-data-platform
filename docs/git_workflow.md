@@ -130,14 +130,11 @@ git commit -m "wip"
 ```
 
 ---
-
-## That's It!
-
-This gives you:
-- ✅ Clean git history
-- ✅ Protection against accidental main commits  
-- ✅ PR-based workflow for your portfolio
-- ✅ Simple, lightweight, no complexity
+This workflow benefits are:
+- Clean git history
+- Protection against accidental main commits  
+- PR-based workflow for your portfolio
+- Simple, lightweight, no complexity
 
 ### **Quick Reference Card:**
 
