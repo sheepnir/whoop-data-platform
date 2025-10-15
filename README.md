@@ -1,3 +1,7 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/whoop-data-platform)
+![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/whoop-data-platform)
+![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/whoop-data-platform)
+
 # WHOOP Data Platform
 
 Production-grade health analytics platform demonstrating enterprise data engineering capabilities.
